@@ -12,6 +12,7 @@ body{
     background-color: #68a4ff;
     font-family: 'Poppins', sans-serif;
     color: #00303f;
+    padding: 4px;
 }
 .container{
     position: relative;
